@@ -1,5 +1,5 @@
-<h1 align="center">Bonjour 👋, Je suis'm Cécile</h1>
-<h3 align="center">Une développeuse web passionnée !!!</h3>
+<h1 align="center">Bonjour 👋, Je m'appelle Cécile.</h1>
+<h3 align="center">Une développeuse web passionnée!!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scroutch&label=Profile%20views&color=0e75b6&style=flat" alt="scroutch" /> </p>
 
