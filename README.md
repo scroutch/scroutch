@@ -24,7 +24,7 @@
 <br>
 <h3 align="center">🌱 Tech I learn:</h3>
 <br>
-<p align="center"> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=grey" /> </p>
 
 <br>
 
