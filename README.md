@@ -24,7 +24,7 @@
 <br>
 <h3 align="left">🌱 Tech I learn:</h3>
 <br>
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/></p>
+<p align="center"> ![symfony](https://img.shields.io/badge/-symfony-green?style=flat-circle&logo=php)</p>
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=scroutch&show_icons=true&theme=gotham" alt="scroutch" />
