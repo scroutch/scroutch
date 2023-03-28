@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome!!! <p align="right"><img src="https://komarev.com/ghpvc/?username=scroutch&label=Profile%20views&color=0e75b6&style=flat" alt="scroutch" /></p></h1>
-<h3 align="center">🚀 I'm Cécile, full stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>France</b></h3>
+<h3 align="center">🚀 I'm Cécile, full stack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="20"/> <b>France</b></h3>
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=scroutch&show_icons=true&locale=en&layout=compact" alt="scroutch" /></p>
 
